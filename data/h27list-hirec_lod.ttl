@@ -1,12 +1,12 @@
 @prefix schema: <http://schema.org/> .
 @prefix tta: <http://purl.org/tokyotecharchives/> .
-tta:2015-0001 schema:dateCreated "2004年度" .
-tta:2015-0002 schema:dateCreated "2008年度" .
-tta:2015-0003 schema:dateCreated "2004年度" .
-tta:2015-0004 schema:dateCreated "2004年度" .
-tta:2015-0005 schema:dateCreated "1917年度" .
-tta:2015-0006 schema:dateCreated "1995年度" .
-tta:2015-0007 schema:dateCreated "2003年度" .
+tta:2015-0001 schema:dateCreated "2004蟷ｴ蠎ｦ" .
+tta:2015-0002 schema:dateCreated "2008蟷ｴ蠎ｦ" .
+tta:2015-0003 schema:dateCreated "2004蟷ｴ蠎ｦ" .
+tta:2015-0004 schema:dateCreated "2004蟷ｴ蠎ｦ" .
+tta:2015-0005 schema:dateCreated "1917蟷ｴ蠎ｦ" .
+tta:2015-0006 schema:dateCreated "1995蟷ｴ蠎ｦ" .
+tta:2015-0007 schema:dateCreated "2003蟷ｴ蠎ｦ" .
 tta:2015-0008 schema:dateCreated "1931" .
 tta:2015-0009 schema:dateCreated "1932" .
 tta:2015-0010 schema:dateCreated "1933" .
@@ -42,4 +42,3 @@ tta:2015-0039 schema:dateCreated "1947" .
 tta:2015-0040 schema:dateCreated "1931" .
 tta:2015-0041 schema:dateCreated "1925" .
 tta:2015-0042 schema:dateCreated "[1927]" .
-
